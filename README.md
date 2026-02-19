@@ -66,6 +66,10 @@ Resturant.csv
 * Which city had maximum revenue
 
 ---
+## Data Source
+
+- Kaggle.com
+  
 ## Tools Used
 
 - *Microsoft Excel* – For further cleaning, Data Collection
@@ -80,9 +84,9 @@ This document outlines the data cleaning process applied to the Resturant Sales 
 
 > Dataset Information
 
-Original File: Resturant.csv
-Rows: 254 records
-Columns: 10 informations
+- Original File: Resturant.csv
+- Rows: 254 rows
+- Columns: 10 Columns
 
 > Data Cleaning Steps
 
